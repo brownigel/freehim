@@ -1,1 +1,5 @@
-theme: jekyll-theme-dinky
+---
+layout: default
+comments: true
+# other options
+---
